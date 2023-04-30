@@ -1,0 +1,10 @@
+timestamp,application,webpage
+2022-05-01 12:30:00,chrome.exe,https://www.google.com
+2022-05-01 12:30:05,chrome.exe,https://www.google.com/search?q=productivity+software
+2022-05-01 12:30:10,notepad.exe,N/A
+2022-05-01 12:30:15,chrome.exe,https://docs.python.org/3/library/csv.html
+2022-05-01 12:30:20,notepad.exe,N/A
+2022-05-01 12:30:25,chrome.exe,https://en.wikipedia.org/wiki/Python_(programming_language)
+2022-05-01 12:30:30,chrome.exe,https://stackoverflow.com/questions/29049479/using-python-to-get-the-active-window-title-on-windows-7
+2022-05-01 12:30:35,notepad.exe,N/A
+2022-05-01 12:30:40,chrome.exe,https://github.com/
